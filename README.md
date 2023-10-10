@@ -16,7 +16,7 @@ Residu: 1
 
 El lliurament ha d'incloure:
 
-1. Diagrama de flux amb el nom **08_divisio_flux.pdf"**
+1. Diagrama de flux amb el nom **08_divisio_flux.pdf**
 2. El programa amb el nom: **08_divisio.py**
 
 El lliurament s'ha de fer a: <https://classroom.github.com/a/pID6DWbJ>
