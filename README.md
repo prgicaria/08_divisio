@@ -2,9 +2,9 @@
 
 Escriure un programa que demani a l'usuari dos nombres enters (D, d). La sortida per pantalla ha de mostrar exactament el missatge:
 
-Divisió: D/d
-Quocient: q
-Residu: r
+- Divisió: D/d
+- Quocient: q
+- Residu: r
 
 Per exemple:
 
